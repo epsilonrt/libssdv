@@ -25,7 +25,7 @@
 
 void exit_usage(void)
 {
-  fprintf(stderr, "Usage: ssdv [-e|-d] [-t <percentage>] [-c <callsign>] [-i <id>] [<in file>] [<out file>]\n");
+  fprintf(stderr, "Usage: ssdv-codec [-e|-d] [-t <percentage>] [-c <callsign>] [-i <id>] [<in file>] [<out file>]\n");
   exit(-1);
 }
 

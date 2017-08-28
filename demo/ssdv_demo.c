@@ -2,6 +2,9 @@
  * @file demo_ssdv.c
  * @brief SSDV radio demo.
  * 
+ * Nécessite SDL 1.2 et SDL_image:
+ * sudo apt-get install libsdl1.2-dev libsdl-image1.2-dev
+ * 
  * Copyright © 2015 epsilonRT, All rights reserved.
  * This software is governed by the CeCILL license <http://www.cecill.info>
  */
