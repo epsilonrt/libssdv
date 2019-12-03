@@ -1,0 +1,10 @@
+SSDV AUTHORS file
+$Id$
+--------------------------------------------------------------------------------
+* Created by Philip Heron <phil@sanslogic.co.uk>
+  http://www.sanslogic.co.uk/ssdv/
+
+* Uses the Reed-Solomon codec written by Phil Karn, KA9Q
+
+* Packaged by epsilonrt aka Pascal JEAN <pascal.jean@btssn.net>
+  http://www.btssn.net
